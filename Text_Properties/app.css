@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    /* The width moves the text in percentages
+       of the original position that it was placed */
+    width: 50%;
+    /* changes boldness of font - normal = 400 */
+    font-weight: 400;
+    text-decoration: yellowgreen underline wavy;
+    letter-spacing: 10px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: green underline;
+    font-weight: bold;
+}
+
+p {
+    line-height: 1.5;
+    
+    text-align: justify;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+}
