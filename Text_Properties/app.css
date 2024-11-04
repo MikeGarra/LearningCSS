@@ -7,20 +7,24 @@ h1 {
     font-weight: 400;
     text-decoration: yellowgreen underline wavy;
     letter-spacing: 10px;
+    font-size: 60px;
+    font-family: verdana, sans-serif;
 }
 
 h2 {
     text-decoration: underline;
+    font-family: Arial, sans-serif;
 }
 
 h3 {
     text-decoration: green underline;
     font-weight: bold;
+    font-family: 'Segoe UI', arial sans-serif;
 }
 
 p {
     line-height: 1.5;
-    
+    font-family: fantasy;
     text-align: justify;
     font-weight: normal;
 }
