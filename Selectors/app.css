@@ -57,3 +57,11 @@ h2+button {
 footer > a {
     color: #1d3557;
 }
+
+input[type="password"] {
+    color: rgb(79, 3, 109);
+}
+
+section[class="post"] {
+    background-color: rgb(238, 172, 238);
+}
