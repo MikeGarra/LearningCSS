@@ -16,7 +16,6 @@ button {
 #signup {
     background-color: #1d3557;
     color: #f1faee;
-
 }
 
 h1,
@@ -99,4 +98,8 @@ p::first-line {
 p::selection {
     background-color: #fcbf49;
     color: red;
+}
+
+button:hover {
+    background-color: olive;
 }
